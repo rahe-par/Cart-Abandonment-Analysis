@@ -137,29 +137,6 @@ The Power BI dashboard includes:
 - User Type Analysis
 - Interactive Filters
 
----
-
-## 📁 Project Structure
-
-```
-Cart-Abandonment-Analysis/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   ├── 01_Analysis.ipynb
-│
-├── dashboard/
-│   └── Cart_Abandonment_Dashboard.pbix
-│
-├── README.md
-├── requirements.txt
-└── LICENSE
-```
-
----
 
 ## 🚀 Future Improvements
 
